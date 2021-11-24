@@ -1,0 +1,7 @@
+ID: 1234
+Name: Milon27
+Address: BD
+CGPA: 4.00
+Program: BCSE
+University: IUBAT
+Passing Year: 2021
